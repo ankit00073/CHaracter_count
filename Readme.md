@@ -28,4 +28,4 @@ To run this webpage locally, follow these steps:
 
 The webpage should open in your default web browser, allowing you to test the character counter functionality.
 
-
+## Hosted Link :- https://ankit00073.github.io/CHaracter_count/
